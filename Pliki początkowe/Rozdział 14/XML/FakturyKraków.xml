@@ -1,0 +1,81 @@
+<Faktury>
+  <Nagłówek>
+    <NumerFaktury>FV/2026/Kra/001</NumerFaktury>
+    <Data>2026-01-07</Data>
+    <Sprzedawca>
+      <Nazwa>Dostawca ABC Sp. z o.o.</Nazwa>
+      <TaxID>4567890123</TaxID>
+	  <Miasto>Kraków</Miasto>
+    </Sprzedawca>
+    <Kupujący>
+      <Nazwa>Jan Kowalski</Nazwa>
+    </Kupujący>
+  </Nagłówek>
+  <Pozycje>
+    <Pozycja>
+      <Opis>Mysz bezprzewodowa</Opis>
+      <Ilość>2</Ilość>
+      <Cena>50.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+	<Pozycja>
+      <Opis>Klawiatura</Opis>
+      <Ilość>2</Ilość>
+      <Cena>79.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+  </Pozycje>
+  <Nagłówek>
+    <NumerFaktury>FV/2026/Kra/002</NumerFaktury>
+    <Data>2026-01-11</Data>
+    <Sprzedawca>
+      <Nazwa>Wesoły Przewoźnik</Nazwa>
+      <TaxID>3456789012</TaxID>
+	  <Miasto>Kraków</Miasto>
+    </Sprzedawca>
+    <Kupujący>
+      <Nazwa>Proste IT</Nazwa>
+      <TaxID>3334445555</TaxID>
+    </Kupujący>
+  </Nagłówek>
+  <Pozycje>
+    <Pozycja>
+      <Opis>PC</Opis>
+      <Ilość>1</Ilość>
+      <Cena>4000.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+    <Pozycja>
+      <Opis>Klawiatura Gracza</Opis>
+      <Ilość>2</Ilość>
+      <Cena>179.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+	<Pozycja>
+      <Opis>Mysz Gracza</Opis>
+      <Ilość>5</Ilość>
+      <Cena>149.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+  </Pozycje>
+    <Nagłówek>
+    <NumerFaktury>FV/2026/Kra/003</NumerFaktury>
+    <Data>2026-01-19</Data>
+    <Sprzedawca>
+      <Nazwa>Wszystko dla Gracza</Nazwa>
+      <TaxID>6789012345</TaxID>
+	  <Miasto>Kraków</Miasto>
+    </Sprzedawca>
+    <Kupujący>
+      <Nazwa>Gustaw Gamer</Nazwa>
+    </Kupujący>
+  </Nagłówek>
+  <Pozycje>
+    <Pozycja>
+      <Opis>Komputer Gracza</Opis>
+      <Ilość>1</Ilość>
+      <Cena>7777.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+  </Pozycje>
+</Faktury>

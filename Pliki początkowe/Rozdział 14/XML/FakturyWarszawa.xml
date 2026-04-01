@@ -1,0 +1,29 @@
+<Faktury>
+  <Nagłówek>
+    <NumerFaktury>FV/2026/War/001</NumerFaktury>
+    <Data>2026-01-02</Data>
+    <Sprzedawca>
+      <Nazwa>Dostawca ABC Sp. z o.o.</Nazwa>
+      <TaxID>1234567890</TaxID>
+	  <Miasto>Warszawa</Miasto>
+    </Sprzedawca>
+    <Kupujący>
+      <Nazwa>Nasza Firma Sp. z o.o.</Nazwa>
+      <TaxID>1112223333</TaxID>
+    </Kupujący>
+  </Nagłówek>
+  <Pozycje>
+    <Pozycja>
+      <Opis>Laptop</Opis>
+      <Ilość>2</Ilość>
+      <Cena>3000.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+    <Pozycja>
+      <Opis>Mysz bezprzewodowa</Opis>
+      <Ilość>10</Ilość>
+      <Cena>50.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+  </Pozycje>
+</Faktury>

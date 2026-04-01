@@ -1,0 +1,67 @@
+<Faktury>
+  <Nagłówek>
+    <NumerFaktury>FV/2026/Kie/001</NumerFaktury>
+    <Data>2026-01-12</Data>
+    <Sprzedawca>
+      <Nazwa>Dostawca ABC Sp. z o.o.</Nazwa>
+      <TaxID>1234567890</TaxID>
+	  <Miasto>Kielce</Miasto>
+    </Sprzedawca>
+    <Kupujący>
+      <Nazwa>Felicja Figiel</Nazwa>
+    </Kupujący>
+  </Nagłówek>
+  <Pozycje>
+    <Pozycja>
+      <Opis>Laptop</Opis>
+      <Ilość>2</Ilość>
+      <Cena>3000.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+    <Pozycja>
+      <Opis>Mysz bezprzewodowa</Opis>
+      <Ilość>10</Ilość>
+      <Cena>50.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+	<Pozycja>
+      <Opis>Klawiatura</Opis>
+      <Ilość>5</Ilość>
+      <Cena>79.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+  </Pozycje>
+  <Nagłówek>
+    <NumerFaktury>FV/2026/Kie/002</NumerFaktury>
+    <Data>2026-01-14</Data>
+    <Sprzedawca>
+      <Nazwa>Wesoły Przewoźnik</Nazwa>
+      <TaxID>3456789012</TaxID>
+	  <Miasto>Kielce</Miasto>
+    </Sprzedawca>
+    <Kupujący>
+      <Nazwa>Proste IT</Nazwa>
+      <TaxID>3334445555</TaxID>
+    </Kupujący>
+  </Nagłówek>
+  <Pozycje>
+    <Pozycja>
+      <Opis>PC</Opis>
+      <Ilość>1</Ilość>
+      <Cena>4000.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+    <Pozycja>
+      <Opis>Klawiatura Gracza</Opis>
+      <Ilość>2</Ilość>
+      <Cena>179.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+	<Pozycja>
+      <Opis>Mysz Gracza</Opis>
+      <Ilość>5</Ilość>
+      <Cena>149.00</Cena>
+      <VAT>23%</VAT>
+    </Pozycja>
+  </Pozycje>
+</Faktury>
